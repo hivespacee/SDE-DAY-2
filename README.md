@@ -1,0 +1,23 @@
+# DAY 2 OUTPUTS
+
+### ARRAY METHODS
+## EASY 
+
+## MEDIUM
+
+## HARD
+
+### DOM MANIPULATION METHODS
+## EASY 
+
+## MEDIUM
+
+## HARD
+
+### DOM AND ARRAY TOGETHER 
+## EASY 
+
+## MEDIUM
+
+## HARD
+
